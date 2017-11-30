@@ -14,10 +14,10 @@ Running `grunt test` will run the unit tests with karma.
 
 ### PLEASE INSTALL THOSE
 
-Node Js,
-BOWER install
-npm install -g yo grunt-cli bower
-Generator angular install
-npm install -g generator-angular
-Yoman Angular Install
-yo angular 
+Node Js, <br />
+BOWER install <br />
+npm install -g yo grunt-cli bower <br />
+Generator angular install <br />
+npm install -g generator-angular <br />
+Yoman Angular Install <br />
+yo angular <br />
